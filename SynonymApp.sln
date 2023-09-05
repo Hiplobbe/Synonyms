@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Synonyms", "Synonyms\Synonyms.csproj", "{4F6812A1-A65F-4D7A-83A8-60FAEB7A0CEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SynonymTest", "SynonymTest\SynonymTest.csproj", "{1AFB257B-1131-4422-90B4-DA17C0FB60DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F6812A1-A65F-4D7A-83A8-60FAEB7A0CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6812A1-A65F-4D7A-83A8-60FAEB7A0CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6812A1-A65F-4D7A-83A8-60FAEB7A0CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6812A1-A65F-4D7A-83A8-60FAEB7A0CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AFB257B-1131-4422-90B4-DA17C0FB60DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AFB257B-1131-4422-90B4-DA17C0FB60DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AFB257B-1131-4422-90B4-DA17C0FB60DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AFB257B-1131-4422-90B4-DA17C0FB60DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94DDA3AF-B96B-4DBC-AF21-AF5F7423F28C}
+	EndGlobalSection
+EndGlobal
